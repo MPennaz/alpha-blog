@@ -1,4 +1,7 @@
+//Main Nav Bar Color
 $navbar-default-bg: #000000;
+//NAvBar test below.
+//$navbar-default-bg: #0020C2;
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
@@ -24,6 +27,9 @@ $navbar-default-bg: #000000;
 
 .jumbotron {
   background-image: asset-url('Space.jpg');
+  //background-image: asset-url('DSA.jpg');
+  //background-image: asset-url('DSA2.jpg');
+  //background-image: asset-url('RarefactionFinal.jpg');
   background-size: cover;
   height: 550px;
 }
